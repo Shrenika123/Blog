@@ -1,0 +1,15 @@
+.container {
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.searchContainer {
+  max-width: 20rem;
+}
+
+.loader {
+  z-index: 2;
+  text-align: center;
+  margin: 20% 0 0 40%;
+}
