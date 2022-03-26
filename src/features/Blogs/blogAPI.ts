@@ -5,9 +5,7 @@ import { BASE_URL } from "../../utils/constants";
 
 export const fetchPosts = () => {
   return axios
-    .get<AxiosResponse<IGetPostResponse>>(
-      `${BASE_URL}/5be8ac29-27c4-4316-adfc-a32ad1e233ce`
-    )
+    .get<AxiosResponse<IGetPostResponse>>(`${BASE_URL}/getBlogs`)
     .then((res) => {
       return res.data.response?.posts;
     });
@@ -15,9 +13,7 @@ export const fetchPosts = () => {
 
 export const fetchComments = () => {
   return axios
-    .get<AxiosResponse<IComments>>(
-      `${BASE_URL}/178e6cea-b223-4e81-b472-fbe3e72f1bec`
-    )
+    .get<AxiosResponse<IComments>>(`${BASE_URL}/getComments`)
     .then((res) => {
       return res.data.response?.comments;
     });
