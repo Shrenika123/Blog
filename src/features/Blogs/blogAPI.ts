@@ -6,7 +6,7 @@ import { BASE_URL } from "../../utils/constants";
 export const fetchPosts = () => {
   return axios
     .get<AxiosResponse<IGetPostResponse>>(
-      `${BASE_URL}/f154c5d2-3ddd-4be8-a06c-5406c01f6291`
+      `${BASE_URL}/5be8ac29-27c4-4316-adfc-a32ad1e233ce`
     )
     .then((res) => {
       return res.data.response?.posts;
@@ -16,7 +16,7 @@ export const fetchPosts = () => {
 export const fetchComments = () => {
   return axios
     .get<AxiosResponse<IComments>>(
-      `${BASE_URL}/bcb9bc55-1cb8-477a-810a-4eeda4b8fbdb`
+      `${BASE_URL}/178e6cea-b223-4e81-b472-fbe3e72f1bec`
     )
     .then((res) => {
       return res.data.response?.comments;

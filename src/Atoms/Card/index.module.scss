@@ -3,6 +3,8 @@
   width: 100%;
   cursor: pointer;
   margin: 10px 0;
+  overflow: hidden;
+
   :global(.ant-card) {
     padding: 1rem 0;
     border-radius: 0.25rem;

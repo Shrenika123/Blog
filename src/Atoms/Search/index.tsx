@@ -24,13 +24,14 @@ const Input: React.FC<inputProps> = ({
         onSearch={() => onSearch()}
         enterButton
       />
-      {searchData?.map((item) => {
+      {searchData?.map((item, index) => {
         return (
           <p
             className={Styles.dropDownField}
             onClick={() => {
               onDropDownSearch(item);
             }}
+            key={index + 1}
           >
             {item}
           </p>

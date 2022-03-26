@@ -108,7 +108,10 @@ export function Blogs() {
               return (
                 <Card key={item.id} onClick={() => onSelectedBlog(item)}>
                   <h2>{item.title}</h2>
-                  <p>{item.content}</p>
+                  <div className={Styles.bodyContainer}>
+                    <img src="/blogImage.jpeg" />
+                    <p className={Styles.word}>{item.content}</p>
+                  </div>
                 </Card>
               );
             })}

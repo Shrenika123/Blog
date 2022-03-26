@@ -35,6 +35,7 @@ const Blog: React.FC = () => {
           <div className={Styles.container}>
             <h1>{selectedBlog.title}</h1>
             <p>{selectedBlog.content}</p>
+            <img src="/blogImage.jpeg" className={Styles.img} />
             <div className={Styles.commentContainer}>
               <Button
                 text="Comments"
