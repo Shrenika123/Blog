@@ -17,12 +17,14 @@ Note:As design was not provided have implemented in with simple design,while con
 #npm start
 #npm install
 
-<img width="1440" alt="Screen Shot 2022-03-26 at 5 01 40 AM" src="https://user-images.githubusercontent.com/49944506/160215122-b535b345-b484-4378-b6e6-f51832eedac8.png">
-<img width="1440" alt="Screen Shot 2022-03-26 at 4 48 54 AM" src="https://user-images.githubusercontent.com/49944506/160215127-2ae4a346-7925-48ce-8183-52fa22379d61.png">
-<img width="1440" alt="Screen Shot 2022-03-26 at 4 44 44 AM" src="https://user-images.githubusercontent.com/49944506/160215166-1e66f794-60b0-42c7-b33b-defa8a30ce5b.png">
-<img width="1440" alt="Screen Shot 2022-03-26 at 5 01 40 AM" src="https://user-images.githubusercontent.com/49944506/160215154-2413e39b-7396-4c51-bef3-611a9bef0716.png">
-<img width="1440" alt="Screen Shot 2022-03-26 at 4 48 54 AM" src="https://user-images.githubusercontent.com/49944506/160215158-81217290-f03a-4c4c-8fcf-379921e67f95.png">
-![Uploading Screen Shot 2022-03-26 at 4.44.44 AM.png…]()
-<img width="1440" alt="Screen Shot 2022-03-26 at 4 44 38 AM" src="https://user-images.githubusercontent.com/49944506/160215171-08e0ca50-1d9d-4aa4-9211-49e2bb370352.png">
 <img width="1440" alt="Screen Shot 2022-03-26 at 4 43 51 AM" src="https://user-images.githubusercontent.com/49944506/160215175-a9bf9c37-ca3b-47e2-8c67-ba3cdfafbe0d.png"><img width="1440" alt="Screen Shot 2022-03-26 at 5 16 58 AM" src="https://user-images.githubusercontent.com/49944506/160215356-9f268b49-c660-4f69-8474-c1a7dc46d6bf.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 49 41 AM" src="https://user-images.githubusercontent.com/49944506/160216883-7d414b25-a9ae-429a-b832-6cc7f194d04a.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 49 15 AM" src="https://user-images.githubusercontent.com/49944506/160216898-45da7968-cfae-45c0-b842-21b8cd2e81bc.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 48 39 AM" src="https://user-images.githubusercontent.com/49944506/160216904-ee4e6904-a150-4708-bc0b-07fd2486aa00.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 48 14 AM" src="https://user-images.githubusercontent.com/49944506/160216911-8afefcec-4aa7-4823-8302-63e5200ff756.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 47 50 AM" src="https://user-images.githubusercontent.com/49944506/160216912-50520f1f-7d5a-4245-abe3-5fa9e6411eaf.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 47 11 AM" src="https://user-images.githubusercontent.com/49944506/160216916-c7328a68-2662-4401-b011-76aa97415960.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 51 03 AM" src="https://user-images.githubusercontent.com/49944506/160216926-76082232-1a04-4b04-982c-151a374bcf30.png">
+
+
 
