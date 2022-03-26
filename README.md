@@ -24,6 +24,8 @@ Note:As design was not provided have implemented in with simple design,while con
 <img width="1440" alt="Screen Shot 2022-03-26 at 5 47 50 AM" src="https://user-images.githubusercontent.com/49944506/160216912-50520f1f-7d5a-4245-abe3-5fa9e6411eaf.png">
 <img width="1440" alt="Screen Shot 2022-03-26 at 5 47 11 AM" src="https://user-images.githubusercontent.com/49944506/160216916-c7328a68-2662-4401-b011-76aa97415960.png">
 <img width="1440" alt="Screen Shot 2022-03-26 at 5 51 03 AM" src="https://user-images.githubusercontent.com/49944506/160216926-76082232-1a04-4b04-982c-151a374bcf30.png">
+<img width="1440" alt="Screen Shot 2022-03-26 at 5 16 58 AM" src="https://user-images.githubusercontent.com/49944506/160217010-39426391-f0e1-46a7-ba45-3b38708a6633.png">
+
 
 
 
