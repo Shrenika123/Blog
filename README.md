@@ -17,7 +17,6 @@ Note:As design was not provided have implemented in with simple design,while con
 #npm start
 #npm install
 
-<img width="1440" alt="Screen Shot 2022-03-26 at 4 43 51 AM" src="https://user-images.githubusercontent.com/49944506/160215175-a9bf9c37-ca3b-47e2-8c67-ba3cdfafbe0d.png"><img width="1440" alt="Screen Shot 2022-03-26 at 5 16 58 AM" src="https://user-images.githubusercontent.com/49944506/160215356-9f268b49-c660-4f69-8474-c1a7dc46d6bf.png">
 <img width="1440" alt="Screen Shot 2022-03-26 at 5 49 41 AM" src="https://user-images.githubusercontent.com/49944506/160216883-7d414b25-a9ae-429a-b832-6cc7f194d04a.png">
 <img width="1440" alt="Screen Shot 2022-03-26 at 5 49 15 AM" src="https://user-images.githubusercontent.com/49944506/160216898-45da7968-cfae-45c0-b842-21b8cd2e81bc.png">
 <img width="1440" alt="Screen Shot 2022-03-26 at 5 48 39 AM" src="https://user-images.githubusercontent.com/49944506/160216904-ee4e6904-a150-4708-bc0b-07fd2486aa00.png">
